@@ -1,0 +1,6 @@
+@bybrickpipeline2_HostAddress = http://localhost:5034
+
+GET {{bybrickpipeline2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
