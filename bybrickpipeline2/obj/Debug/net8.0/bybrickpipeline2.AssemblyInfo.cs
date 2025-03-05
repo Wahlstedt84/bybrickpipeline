@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bybrickpipeline2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cc165ae3941f83a36ea930e3c1bdbe84e71d818")]
 [assembly: System.Reflection.AssemblyProductAttribute("bybrickpipeline2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bybrickpipeline2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
